@@ -15,7 +15,7 @@ As well as designing PLC based control systems.
 
 <hr>
 
-⚡ A few of facts about me:
+⚡ A few facts about me:
 - Soon-to-be husband 😉
 - Passionate about learning new things 💡
 - Crossfit lover 🏋️‍♂️
