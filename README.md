@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Błażej, an Automation Engineer aspiring to become a Software Engineer.
+### My name is Błażej, an Automation Engineer with a strong foundation in industrial IT, aspiring to become a Software Engineer.
 
 For the past 7 years, I’ve been developing solutions for ⚡Energy Monitoring Systems⚡, utilizing technologies like:
 - SQL-based industrial databases ([click](https://www.aveva.com/en/products/historian/))
